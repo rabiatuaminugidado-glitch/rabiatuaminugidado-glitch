@@ -2,5 +2,6 @@
 Hello, I am Rabiatu and look forward to learning here
 
 ## Featured project
-[my 
+[my project][link](amr-prediction-ml)
+
 
